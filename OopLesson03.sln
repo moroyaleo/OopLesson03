@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter03", "Chapter03\Chapter03.csproj", "{4727297E-B348-434C-B6B2-D8CA3E50C31A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMailApp", "..\..\OopLesson3\SendMailApp\SendMailApp.csproj", "{5AA8A6D6-EB44-4B71-863E-01BF37E1889C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4727297E-B348-434C-B6B2-D8CA3E50C31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4727297E-B348-434C-B6B2-D8CA3E50C31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4727297E-B348-434C-B6B2-D8CA3E50C31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA8A6D6-EB44-4B71-863E-01BF37E1889C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA8A6D6-EB44-4B71-863E-01BF37E1889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA8A6D6-EB44-4B71-863E-01BF37E1889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA8A6D6-EB44-4B71-863E-01BF37E1889C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
